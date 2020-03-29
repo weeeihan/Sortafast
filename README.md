@@ -18,4 +18,6 @@ After comparing n1 with all the numbers (even n1 itself),
 n1 will be placed into a new array at index of (count).
 This process will be repeated and the new array will be filled up.
 
+For example 0 will always have a count of 0 because nothing is smaller than it. (consider only postiive numbers). So the 0th elementh of output array is 0. Yay
+
 That's it. 
